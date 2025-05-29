@@ -1,2 +1,0 @@
-contents present in file3
-this is text file
